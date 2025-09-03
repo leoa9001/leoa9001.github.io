@@ -8,8 +8,6 @@ permalink: /allergies/
   Last updated: {{ page.last_modified_at | date: "%B %d, %Y" }}
 </div>
 
-## My Allergies & Food Intolerances
-
 I have numerous allergies, food intolerances (Celiac), and food sensitivities that I get questions about. Hopefully this reference helps out. 
 
 **Short List**: Peanuts, tree nuts, legumes (beans, peas, chickpeas, etc), soy, and gluten I can not have. Peanuts are the worst. Soy lecithin is fine and soybean oil is usually fine. “Processed in the same facility as” or "May contain" warnings are fine. I also avoid red meat, and too oily/sugary/spicy due to stomach sensitivities.  
