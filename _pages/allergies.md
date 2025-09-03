@@ -18,10 +18,10 @@ I have numerous allergies, food intolerances (Celiac), and food sensitivities th
 - Soy. Soy protein. Soy Lecithin is fine. Almost all gluten free soy sauce is fine.
 - Legumes: peas, lentils, etc.
 
-#### Serious Food Avoidance**
+#### Serious Food Avoidance
 Gluten: Celiac’s disease; can have some every couple months but should not have consistently. I generally avoid it entirely. Not worried about cross contamination and (very) small amounts of gluten are ok. 
 
-#### Minor Food Avoidance**:
+#### Minor Food Avoidance:
 - Bananas: Also some other fruits in the Spring/Summer. If certain tree pollens are active (e.g. Birch) then I have some minor allergies to fruit (they will only cause some temporary itching). If the fruit is cooked in any way, I will not be allergic to it in any season. I often have bananas in the Spring/Summer. Read: *do not worry about this.*
 - Too spicy/sugary/fatty food. My stomach has become very sensitive over time :( 
 
