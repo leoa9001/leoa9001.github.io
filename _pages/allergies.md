@@ -2,11 +2,10 @@
 layout: page
 title: "Allergies & Food Intolerances"
 permalink: /allergies/
-last_updated: 2025-09-03
 ---
 
 <div style="text-align: right; font-size: 0.9em; color: gray;">
-  Last updated: {{ page.last_updated }}
+  Last updated: 2025-09-03
 </div>
 
 I have numerous allergies, food intolerances (Celiac), and food sensitivities that I get questions about. Hopefully this reference helps out. 
