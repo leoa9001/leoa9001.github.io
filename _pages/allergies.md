@@ -2,10 +2,11 @@
 layout: page
 title: "Allergies & Food Intolerances"
 permalink: /allergies/
+last_updated: 2025-09-03
 ---
 
-<div style="text-align:right; font-size:0.9em; color:gray;">
-  Last updated: {{ page.last_modified_at | date: "%B %d, %Y" }}
+<div style="text-align: right; font-size: 0.9em; color: gray;">
+  Last updated: {{ page.last_updated }}
 </div>
 
 I have numerous allergies, food intolerances (Celiac), and food sensitivities that I get questions about. Hopefully this reference helps out. 
@@ -18,11 +19,12 @@ I have numerous allergies, food intolerances (Celiac), and food sensitivities th
 - Soy. Soy protein. Soy Lecithin is fine. Almost all gluten free soy sauce is fine.
 - Legumes: peas, lentils, etc.
 
-**Food Avoidance**
+**Serious Food Avoidance**
 Gluten: Celiac’s disease; can have some every couple months but should not have consistently. I generally avoid it entirely. Not worried about cross contamination and (very) small amounts of gluten are ok. 
 
-**Minor Seasonal Allergies**:
+**Minor Food Avoidance**:
 - Bananas: Also some other fruits in the Spring/Summer. If certain tree pollens are active (e.g. Birch) then I have some minor allergies to fruit (they will only cause some temporary itching). If the fruit is cooked in any way, I will not be allergic to it in any season. I often have bananas in the Spring/Summer. Read: *do not worry about this.*
+- Too spicy/sugary/fatty food. My stomach has become very sensitive over time :( 
 
 **Foods I specifically can eat that often people think I cant eat**:
 - Dairy
