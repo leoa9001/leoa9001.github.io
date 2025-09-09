@@ -6,7 +6,7 @@ description: Talking about how we never cover linear algebra in the language it 
 tags: math math-education 
 categories: sample-posts
 related_posts: false
-published: false
+published: true
 ---
 
 Linear algebra is perhaps the most important field in mathematics (pure and applied). Much of the game of mathematics is reducing your problem to some linear algebra - likely a system of equations - and then solving it there. Entire subfields of mathematics could be characterized as generalizations of linear algebra concepts: Representation theory generalizes eigenspace decomposition, homological algebra generalizes the rank-nullity theorem, functional analysis is characterized as infinite-dimensional linear algebra. Considering all this, motivating a new treatise on the subject isn't hard at all. However, claiming that the entire literature is missing a linear algebra treatment fit for pure mathematics is harder. 
