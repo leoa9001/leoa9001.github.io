@@ -3,7 +3,7 @@ layout: post
 title: The Missing Linear Algebra for Pure Mathematics Course
 date: 2025-09-04 
 description: Talking about how we never cover linear algebra in the language it is used in high level pure mathematics. 
-tags: math math-education 
+tags: math advanced-math math-education 
 categories: 
 related_posts: false
 published: true
