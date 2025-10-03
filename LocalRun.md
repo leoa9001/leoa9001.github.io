@@ -6,4 +6,4 @@ Probably by
 `source .venv/bin/activate`
 Then run
 `bundle exec jekyll serve`
-after in the environment
+after in the environment. add `--future` if you want it to show future posts or `--drafts` to show drafts. 
