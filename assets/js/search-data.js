@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-the-missing-linear-algebra-for-pure-mathematics-course",
+        },{id: "post-understanding-physics-with-no-math-background",
+        
+          title: "Understanding Physics with No Math Background",
+        
+        description: "Five simple tips for the layman who wants to understand mathematics, physics, or similarly technical fields.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/layman-learning/";
+          
+        },
+      },{id: "post-the-missing-linear-algebra-for-pure-mathematics-course",
         
           title: "The Missing Linear Algebra for Pure Mathematics Course",
         
