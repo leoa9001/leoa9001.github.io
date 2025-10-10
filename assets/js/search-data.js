@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "post-understanding-physics-with-no-math-background",
         
-          title: "Understanding Physics with No Math Background",
+          title: "Understanding physics with no math background",
         
         description: "Five simple tips for the layman who wants to understand mathematics, physics, or similarly technical fields.",
         section: "Posts",
@@ -36,7 +36,7 @@ ninja.data = [{
         },
       },{id: "post-the-missing-linear-algebra-for-pure-mathematics-course",
         
-          title: "The Missing Linear Algebra for Pure Mathematics Course",
+          title: "The missing linear algebra for pure mathematics course",
         
         description: "Talking about how we never cover linear algebra in the language it is used in high level pure mathematics.",
         section: "Posts",
