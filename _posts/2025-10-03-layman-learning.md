@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding Physics with No Math Background
+title: Understanding physics with no math background
 date: 2025-10-03 
 description: Five simple tips for the layman who wants to understand mathematics, physics, or similarly technical fields. 
 tags: self-education expository physics 

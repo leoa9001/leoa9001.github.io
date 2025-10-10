@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Missing Linear Algebra for Pure Mathematics Course
+title: The missing linear algebra for pure mathematics course
 date: 2025-09-04 
 description: Talking about how we never cover linear algebra in the language it is used in high level pure mathematics. 
 tags: math advanced-math math-education 
