@@ -6,7 +6,7 @@ description: Talking about how we never cover linear algebra in the language it 
 tags: math advanced-math math-education 
 categories: 
 related_posts: false
-published: true
+published: false
 ---
 
 $$

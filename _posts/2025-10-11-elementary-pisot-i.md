@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yet another thing about the golden ratio Part I
-date: 2025-10-15 
+date: 2025-10-11
 description: 
 tags: math elementary-math 
 categories: 
